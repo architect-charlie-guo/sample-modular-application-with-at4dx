@@ -1,0 +1,24 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true,
+      "package": "AT4DX-Hello-World",
+      "versionName": "ver 1.0",
+      "versionNumber": "1.0.0.NEXT",
+      "dependencies": [
+        {
+          "package": "AT4DX@1.0.0.LATEST"
+        }
+      ]
+    }
+  ],
+  "name": "AT4DX Hello World",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "57.0",
+  "packageAliases": {
+    "AT4DX": "04tXXXXXXXXXXXXXXX",
+    "AT4DX-Hello-World": "0HoXXXXXXXXXXXXXXX"
+  }
+}
